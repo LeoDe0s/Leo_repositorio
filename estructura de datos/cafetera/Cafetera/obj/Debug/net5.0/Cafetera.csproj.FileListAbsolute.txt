@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.exe
+C:\Users\usuario\source\repos\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.deps.json
+C:\Users\usuario\source\repos\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.runtimeconfig.json
+C:\Users\usuario\source\repos\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.dll
+C:\Users\usuario\source\repos\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.pdb
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.dll
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\refint\Cafetera.dll
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.pdb
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Cafetera\Cafetera\obj\Debug\net5.0\ref\Cafetera.dll
